@@ -1,0 +1,55 @@
+<HTML>
+    <HEAD>
+        <TITLE> Time table</TITLE>
+    </HEAD>
+    <body>
+        <h1><Font color="Red"><center><U>COLLEGE TIME TABLE</U></cen></Font></h1>
+        <TABLE border="5" cellspacing="9" align="center" bordercolor="red">
+            <tr>
+                <TD><H4>DAY</H4></TD>
+                <td>08:30-09:30</td>
+                <td>----------09:30-11:30----------</td>
+                <td>11:30-12:30</td>
+                <td>..|| 12:30-01:00 ||..</td>
+                <td>----------------------------01:00-05:00----------------------------</td>
+            </tr>
+            <tr>
+                <td><center>MONDAY</center></td>
+                <td><center>EDM</center></td>
+                <td><center>PIJ</center></td>
+                <td><center>LL</center></td>
+                <td rowspan="12" align="center">L<br>U<br>N<br>C<br>H</td>
+                <td><center>PIJ Lab Group-1/Web Design Lab Group-2</center></td>
+            </tr> 
+            <tr>
+                <td><center>TUESDAY</center></td>
+                <td><center>EDM</center></td>
+                <td><center>NTM</center></td>
+                <td><center>LL</center></td>
+                <td><center>NTM Lab Group-1/LL Lab Group-2</center></td>
+            </tr> 
+            <tr>
+                <td><center>WEDNESDAY</center></td>
+                <td><center>EDM</center></td>
+                <td><center>PIJ</center></td>
+                <td><center>WD</center></td>
+                <td><center>PIJ Lab Group-1/WD Lab Group-2</center></td>
+            </tr>
+            <tr>
+                <td><center>THURSDAY</center></td>
+                <td><center>EDM</center></td>
+                <td><center>NTM</center></td>
+                <td><center>WD</center></td>
+                <td><center>NTM Lab Group-2/LL Lab Group-1</center></td>
+            </tr>
+            <tr>
+                <td><center>FRIDAY</center></td>
+                <td><center>WD</center></td>
+                <td><center>LL</center></td>
+                <td><center>WD</center></td>
+                <td><center>WD/NTM Lab Group-1/WD/NTM Lab Group-2</center></td>
+            </tr>
+        </TABLE>
+    <h2 align="right"><font color="black">-Created By----Akshay Bhardwaj</font></h2>
+    </body>
+</HTML>
